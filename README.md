@@ -1,4 +1,4 @@
-# For-Python-beginers
+# For-Python-beginners *
 This repository consists of all the python projects for the beginners and who wants to grow their career as Data Analyst/Scientist or currently studing Data Science
 
 This is very basic but very important project to get hands on "Machine Learning".
